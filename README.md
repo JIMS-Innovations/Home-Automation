@@ -1,1 +1,1 @@
-JIMS Innovations Home Automation
+JIMS Innovations Home Automation System
